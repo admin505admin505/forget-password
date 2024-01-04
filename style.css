@@ -3,7 +3,6 @@ html {
   width: 100%;
 }
 
-
 *{
   margin: 0;
   padding: 0;
@@ -86,16 +85,7 @@ forget{
   display: flex;
   justify-content: center;
 }
-forget label a input{
-  margin-right: 3px;
-}
-forget label a{
-  color: #fff;
-  text-decoration: none;
-}
-forget label a:hover{
-text-decoration: underline;
-}
+
 button{
   width: 100%;
   height: 40px;
@@ -106,35 +96,4 @@ button{
   cursor: pointer;
   font-size: 1em;
   font-weight: 600;
-}
-register{
-  font-size: .9em;
-  color:white;
-  text-align: center;
-  margin: 25px 0 10px;
-}
-register p a{
-  text-decoration: none;
-  color: white;
-  font-weight: 600;
-}
-register p a:hover{
-  text-decoration: underline;
-
-}
-
- p{
-   color:red;
-   background-color:#050505;
-   text-align: center;
- }
-li{
-  background-color: black;
-}
-
-
-head{
-  color:red;
-  text-align: center;
-  font-size: 15px;
 }
